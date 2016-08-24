@@ -1,0 +1,8 @@
+C:\New folder\lab rework\FinalLab\UnitTestProject1\bin\Debug\Database\LabDatabase.accdb
+C:\New folder\lab rework\FinalLab\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\New folder\lab rework\FinalLab\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\New folder\lab rework\FinalLab\UnitTestProject1\bin\Debug\FinalLab.exe
+C:\New folder\lab rework\FinalLab\UnitTestProject1\bin\Debug\FinalLab.pdb
+C:\New folder\lab rework\FinalLab\UnitTestProject1\obj\Debug\FinalLabTest.csprojResolveAssemblyReference.cache
+C:\New folder\lab rework\FinalLab\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\New folder\lab rework\FinalLab\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

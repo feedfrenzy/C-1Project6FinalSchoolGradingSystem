@@ -1,0 +1,142 @@
+C:\Users\Yi Lin\Desktop\FinalLab\FinalLab\bin\Debug\FinalLab.exe.config
+\\vmware-host\Shared Folders\Desktop\FinalLab\FinalLab\bin\Debug\FinalLab.exe.config
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\bin\Debug\FinalLab.exe.config
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.csprojResolveAssemblyReference.cache
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.Properties.Resources.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.csproj.GenerateResource.Cache
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\bin\Debug\Database\LabDatabase.accdb
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\bin\Debug\FinalLab.exe
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\bin\Debug\FinalLab.pdb
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.exe
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.pdb
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.LoginForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.NewStudentForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.ProfessorForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.CurrentStudentForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.QuizForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.GradeBookForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\bin\Debug\FinalLab.exe.config
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\obj\Debug\FinalLab.exe
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\obj\Debug\FinalLab.pdb
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\bin\Debug\Database\LabDatabase.accdb
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\bin\Debug\FinalLab.exe
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\bin\Debug\FinalLab.pdb
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\obj\Debug\FinalLab.csprojResolveAssemblyReference.cache
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\obj\Debug\FinalLab.CurrentStudentForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\obj\Debug\FinalLab.GradeBookForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\obj\Debug\FinalLab.LoginForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\obj\Debug\FinalLab.ProfessorForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\obj\Debug\FinalLab.Properties.Resources.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\obj\Debug\FinalLab.NewStudentForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\obj\Debug\FinalLab.QuizForm.resources
+C:\Users\Feed_\Desktop\FinalLab\FinalLab\obj\Debug\FinalLab.csproj.GenerateResource.Cache
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\bin\Debug\FinalLab.exe.config
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.exe
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.pdb
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.CurrentStudentForm.resources
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.GradeBookForm.resources
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.LoginForm.resources
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.ProfessorForm.resources
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.Properties.Resources.resources
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.NewStudentForm.resources
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.QuizForm.resources
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.csproj.GenerateResource.Cache
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\bin\Debug\Database\LabDatabase.accdb
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\bin\Debug\FinalLab.exe
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\bin\Debug\FinalLab.pdb
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.NewProfessorForm.resources
+C:\Users\Feed_\Desktop\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.csprojResolveAssemblyReference.cache
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\FinalLab.exe.config
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.exe
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.pdb
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\Database\LabDatabase.accdb
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\FinalLab.exe
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\FinalLab.pdb
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.csprojResolveAssemblyReference.cache
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.CurrentStudentForm.resources
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.GradeBookForm.resources
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.LoginForm.resources
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.NewProfessorForm.resources
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.ProfessorForm.resources
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.Properties.Resources.resources
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.NewStudentForm.resources
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.QuizForm.resources
+C:\New folder\lab rework\FinalLab\FinalLab\obj\Debug\FinalLab.csproj.GenerateResource.Cache
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\Image\college.jpg
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\Image\newpro.jpg
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\Image\newpro.png
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\Image\newstuAdd.png
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\Image\newstudent.jpg
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\Image\professor.gif
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\Image\student.jpg
+C:\New folder\lab rework\FinalLab\FinalLab\bin\Debug\Image\student1.gif
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\FinalLab.exe.config
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.exe
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.pdb
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\Database\LabDatabase.accdb
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\Image\college.jpg
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\Image\newpro.jpg
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\Image\newpro.png
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\Image\newstuAdd.png
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\Image\newstudent.jpg
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\Image\professor.gif
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\Image\student.jpg
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\Image\student1.gif
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\FinalLab.exe
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\bin\Debug\FinalLab.pdb
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.csprojResolveAssemblyReference.cache
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.CurrentStudentForm.resources
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.GradeBookForm.resources
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.LoginForm.resources
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.NewProfessorForm.resources
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.ProfessorForm.resources
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.Properties.Resources.resources
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.NewStudentForm.resources
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.QuizForm.resources
+C:\Users\Feed_\Desktop\Jie_Yi_FinalLab\FinalLab\FinalLab\obj\Debug\FinalLab.csproj.GenerateResource.Cache
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\FinalLab.exe.config
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.exe
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.pdb
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Database\LabDatabase.accdb
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\college.jpg
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\newpro.jpg
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\newpro.png
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\newstuAdd.png
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\newstudent.jpg
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\professor.gif
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\student.jpg
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\student1.gif
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\FinalLab.exe
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\FinalLab.pdb
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.csprojResolveAssemblyReference.cache
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.CurrentStudentForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.GradeBookForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.LoginForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.NewProfessorForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.ProfessorForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.Properties.Resources.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.NewStudentForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.QuizForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.csproj.GenerateResource.Cache
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\FinalLab.exe.config
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.exe
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.pdb
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Database\LabDatabase.accdb
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\college.jpg
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\newpro.jpg
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\newpro.png
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\newstuAdd.png
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\newstudent.jpg
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\professor.gif
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\student.jpg
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\bin\Debug\Image\student1.gif
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.csprojResolveAssemblyReference.cache
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.CurrentStudentForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.GradeBookForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.LoginForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.NewProfessorForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.ProfessorForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.Properties.Resources.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.NewStudentForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.QuizForm.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Jie_Yi_Lab 6 Final\FinalLab\FinalLab\obj\Debug\FinalLab.csproj.GenerateResource.Cache
